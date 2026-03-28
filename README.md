@@ -73,13 +73,6 @@ Currently focused on growing my Java and Python skills while exploring API integ
 
 ---
 
-## 📊 GitHub Stats
-
-![Adriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adriano-Perez&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Perez&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perezadriano78@gmail.com)
